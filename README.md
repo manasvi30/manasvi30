@@ -4,9 +4,6 @@ Full-stack developer building web applications, data tools, and practical machin
 
 I enjoy turning ideas into clean interfaces, reliable APIs, and systems that are both useful and well-engineered.
 
----
-
-
 💻 **Tech Stack:**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -34,15 +31,11 @@ I enjoy turning ideas into clean interfaces, reliable APIs, and systems that are
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
----
-
 ## 🌱 Currently Exploring
 
 - Full-stack system design  
 - Applied machine learning in real-world projects  
 - Building scalable backend systems
-
----
 
 ## 🎯 Interests
 
@@ -50,8 +43,6 @@ I enjoy turning ideas into clean interfaces, reliable APIs, and systems that are
 - Data visualization  
 - Developer tools  
 - Open source
-
----
 
 ## 📫 Connect With Me
 
