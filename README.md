@@ -31,19 +31,19 @@ I enjoy turning ideas into clean interfaces, reliable APIs, and systems that are
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 🌱 Currently Exploring
-
+### Currently Exploring
+- Open Source
 - Full-stack system design  
 - Applied machine learning in real-world projects  
 - Building scalable backend systems
 
-## 🎯 Interests
+### Interests
 
 - Full-stack web development  
 - Data visualization  
 - Developer tools  
 - Open source
 
-## 📫 Connect With Me
+### Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sharmamanasvi/
